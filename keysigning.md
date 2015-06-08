@@ -78,8 +78,9 @@ HOWTO](http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html)
 
 Если вы собираетесь использовать списки ключей всех участников при проведении встречи, такой список нужно подготовить заранее. Список может выглядить таким образом:
 
-Key ID 	Key Owner 	Key Fingerprint 	Key Size 	Key Type 	Key Info Matches? 	Owner ID Matches?
-992A4B3F 	V. Alex Brennen < vab@cryptnet.net > 	0EC8 B0E3 052D FC4C 208F 76EB FA92 0973 992A 4B3F 	1024 	DSA 	  	
+Key ID | Key Owner  | Key Fingerprint  | Key Size  | Key Type  | Key Info Matches?  | Owner ID Matches?
+-------|------------|------------------|-----------|-----------|--------------------|------------------
+992A4B3F  | V. Alex Brennen < vab@cryptnet.net >  | 0EC8 B0E3 052D FC4C 208F 76EB FA92 0973 992A 4B3F  | 1024  | DSA  |    | 
 
 Я написал скрипт на perl, который позволяет создать HTML-документ, содержащий подобную таблицу, из кольца ключей PGP. Этот perl-скрипт для создания списка участников встречи для подписи ключей доступен на основании лицензии Общественной Лицензии GNU (GPL).
 
@@ -505,8 +506,3 @@ Alex Bergonzini (Spanish Translation)
 Cristian Rigamonti (Italian Translation)
 
 chihchun clotho fetag Jedi kcwu pwchi winfred (Traditional Chinese Translation)
-
-CryptNET
-Владимир Иванов, ivlad@malpaso.ru
-Last change: 12:38 10/02/2013 MSK
-
