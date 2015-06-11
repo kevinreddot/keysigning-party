@@ -93,7 +93,7 @@ Key ID | Key Owner  | Key Fingerprint  | Key Size  | Key Type  | Key Info Matche
 
 Построить графическую схему сети доверия очень легко. Для этого можно использовать скрипт [Darxus
 sig2dot.pl](http://www.chaosreigns.com/code/sig2dot/) или более современные варианты [sig3](https://www.phildev.net/pgp/gpg_graphs.html)
-и [sig2dot на Python)(https://github.com/bmhm/sig2dot2). Все эти скрипты на основе ключей и подписей в кольце ключей создают файл в
+и [sig2dot на Python](https://github.com/bmhm/sig2dot2). Все эти скрипты на основе ключей и подписей в кольце ключей создают файл в
 формате dot. Этот файл впоследствии используется [пакетом Graphviz](http://www.graphviz.org/) AT&T Research для создания собственно
 изображения графа. С построениями схем сетей, состоящих из нескольких сотен узлов, могут возникнуть трудности из-за нехватки памяти.
 
