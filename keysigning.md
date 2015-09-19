@@ -685,34 +685,12 @@ GnuPG установить защиту сегментов памяти, где 
 
 # 5. Ссылки на источники дополнительной информации
 
-## 5.1 Список общественных серверов ключей
+## 5.1 Список некоторых общественных серверов ключей
 
-    CryptNET Keyserver Network
-        gnv.keyserver.cryptnet.net
-    pgp.net
-        wwwkeys.us.pgp.net
-        wwwkeys.nl.pgp.net
-        wwwkeys.ch.pgp.net
-        wwwkeys.uk.pgp.net
-        wwwkeys.cz.pgp.net
-        wwwkeys.de.pgp.net
-        wwwkeys.dk.pgp.net
-        wwwkeys.es.pgp.net
-    http://www.keyserver.net/
-        search.keyserver.net
-        seattle.keyserver.net
-        germany.keyserver.net
-        belgium.keyserver.net
-        finland.keyserver.net
-        thailand.keyserver.net
-    pgp.ai.mit.edu
-    pgp.cc.gatech.edu
-    pgp.es.net
-    pgp.rediris.es
-    pgp.uk.demon.net
-    pgp.uni-mainz.de
-    pgp.nic.ad.jp
-    ds.carnet.hr
+* [keys.gnupg.net](http://keys.gnupg.net/)
+* [gnv.us.ks.cryptnet.net](http://gnv.us.ks.cryptnet.net/)
+* [subkeys.pgp.net](http://subkeys.pgp.net/)
+* [pgp.mit.edu](http://pgp.mit.edu/)
 
 5.2 Ссылки на документы по теме
 
