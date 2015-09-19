@@ -406,32 +406,30 @@ GnuPG установить защиту сегментов памяти, где 
     выберите ответ по умолчанию.
 
     Please select what kind of key you want:
-    (1) DSA and ElGamal (default)
-    (2) DSA (sign only)
-    (4) ElGamal (sign and encrypt)
+
+       (1) RSA and RSA (default)
+       (2) DSA and Elgamal
+       (3) DSA (sign only)
+       (4) RSA (sign only)
     Your selection? <return>
 
-5b) Установите длину ключа равной 2048 бит.
+5b) Установите длину ключа равной 4096 бит.
 
-    DSA keypair will have 1024 bits.
-    About to generate a new ELG-E keypair.
-    minimum keysize is 768 bits
-    default keysize is 1024 bits
-    highest suggested keysize is 2048 bits
-    What keysize do you want? (1024) 2048<return>
-    Do you really need such a large keysize?  yes<return>
+    RSA keys may be between 1024 and 4096 bits long.
+    What keysize do you want? (2048) 4096<return>
+    Requested keysize is 4096 bits
 
 5c) Выберите срок действия ключа. Разумный срок - 5 лет.
 
-    Requested keysize is 2048 bits
+    Requested keysize is 4096 bits
     Please specify how long the key should be valid.
-    0 = key does not expire
-    <n> = key expires in n days
-    <n>w = key expires in n weeks
-    <n>m = key expires in n months
-    <n>y = key expires in n years
-    Key is valid for? (0) 5y<return>
-    Key expires at Sun Sep 21 16:17:15 2005 EDT
+             0 = key does not expire
+          <n>  = key expires in n days
+          <n>w = key expires in n weeks
+          <n>m = key expires in n months
+          <n>y = key expires in n years
+    Key is valid for? (0) 1y<return>
+    Key expires at Fri Nov  5 00:19:43 EST 2014
     Is this correct (y/n)? y<return>
 
 5d) Введите ваше имя и адрес электронной почты.
@@ -463,8 +461,8 @@ GnuPG установить защиту сегментов памяти, где 
 
     /home/demo/.gnupg/secring.gpg
     ----------------------------
-    sec 1024D/C01BAFC3 2000-09-21 Demo User <demo@nonexistent.nowhere>
-    ssb 2048g/7A4087F3 2000-09-21
+    sec 4096R/C01BAFC3 2000-09-21 Demo User <demo@nonexistent.nowhere>
+    ssb 4096R/7A4087F3 2000-09-21
     $ gpg --edit-key C01BAFC3
     Command> help
     [...]
