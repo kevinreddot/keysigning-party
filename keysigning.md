@@ -419,7 +419,7 @@ gpg --gen-key. Однако я советую так же создать отз�
     What keysize do you want? (1024) 2048<return>
     Do you really need such a large keysize?  yes<return>
 
-Выберите срок действия ключа. Разумный срок - 5 лет.
+5c) Выберите срок действия ключа. Разумный срок - 5 лет.
 
     Requested keysize is 2048 bits
     Please specify how long the key should be valid.
