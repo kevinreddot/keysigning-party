@@ -694,40 +694,40 @@ GnuPG установить защиту сегментов памяти, где 
 
 5.2 Ссылки на документы по теме
 
-    The Zimmermann-Sassaman Keysigning Party Protocol Definition
-    GnuPG FAQ
-    GnuPG Handbook
-    GnuPG Mini Howto (English)
-    comp.security.pgp FAQ
-    Strong Distribution HOWTO
-    Guerrilla Software Development HOWTO
-    PGP Compromise HOWTO
-    Cryptography Dictionary
+* The Zimmermann-Sassaman Keysigning Party Protocol Definition
+* GnuPG FAQ
+* GnuPG Handbook
+* GnuPG Mini Howto (English)
+* comp.security.pgp FAQ
+* Strong Distribution HOWTO
+* Guerrilla Software Development HOWTO
+* PGP Compromise HOWTO
+* Cryptography Dictionary
 
 5.3 Сопутствующие программы
 
-    Gnu Privacy Guard (GnuPG) (FreshMeat)
-    CryptNET Keyserver (FreshMeat)
-    Wotsap Web of trust statistics and pathfinder (FreshMeat)
-    The AT&T Labs-Research Graphviz package
+* Gnu Privacy Guard (GnuPG) (FreshMeat)
+* CryptNET Keyserver (FreshMeat)
+* Wotsap Web of trust statistics and pathfinder (FreshMeat)
+* [Graphviz - Graph Visualization Software](http://www.graphviz.org/)
 
 5.4 Web-страницы на сопутствующие темы
 
-    Biglumber - Key Signing Coordination
-    Keysigning Party Mailing List
-    Keysigning Party Mailing List Archive
-    OpenPGP Alliance Home Page
-    Jason Harris PGP Keysigning Page
-    KeyAnalyze Page
-    International PGP Home Page
-    The Debian keyring graphing page
-    Signature Path Tracing page
-    CryptNET
+* [Biglumber - Key Signing Coordination](http://biglumber.com/)
+* Keysigning Party Mailing List
+* Keysigning Party Mailing List Archive
+* [OpenPGP Alliance Home Page](http://www.openpgp.org/)
+* Jason Harris PGP Keysigning Page
+* KeyAnalyze Page
+* International PGP Home Page
+* The Debian keyring graphing page
+* Signature Path Tracing page
+* CryptNET
 
 5.5 RFC, имеющие отношение к теме
 
-    RFC2440: OpenPGP Message Format
-    RFC2015: MIME Security With Pretty Good Privacy
+* [RFC4880: OpenPGP Message Format](http://tools.ietf.org/html/rfc4880)
+* [RFC3156: MIME Security with OpenPGP](http://tools.ietf.org/html/rfc3156)
 
 5.6 Фотографии со встреч
 
