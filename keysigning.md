@@ -692,7 +692,7 @@ GnuPG установить защиту сегментов памяти, где 
 * [subkeys.pgp.net](http://subkeys.pgp.net/)
 * [pgp.mit.edu](http://pgp.mit.edu/)
 
-5.2 Ссылки на документы по теме
+##5.2 Ссылки на документы по теме
 
 * The Zimmermann-Sassaman Keysigning Party Protocol Definition
 * GnuPG FAQ
@@ -704,14 +704,14 @@ GnuPG установить защиту сегментов памяти, где 
 * PGP Compromise HOWTO
 * Cryptography Dictionary
 
-5.3 Сопутствующие программы
+##5.3 Сопутствующие программы
 
-* Gnu Privacy Guard (GnuPG) (FreshMeat)
-* CryptNET Keyserver (FreshMeat)
-* Wotsap Web of trust statistics and pathfinder (FreshMeat)
-* [Graphviz - Graph Visualization Software](http://www.graphviz.org/)
+* [Gnu Privacy Guard (GnuPG)](https://gnupg.org/)
+* [Wotsap](https://www.lysator.liu.se/~jc/wotsap/) Web of trust statistics and pathfinder
+* [PGP pathfinder & key statistics](http://pgp.cs.uu.nl/)
+* [Graphviz](http://www.graphviz.org/) - Graph Visualization Software
 
-5.4 Web-страницы на сопутствующие темы
+##5.4 Web-страницы на сопутствующие темы
 
 * [Biglumber - Key Signing Coordination](http://biglumber.com/)
 * Keysigning Party Mailing List
@@ -724,12 +724,12 @@ GnuPG установить защиту сегментов памяти, где 
 * Signature Path Tracing page
 * CryptNET
 
-5.5 RFC, имеющие отношение к теме
+##5.5 RFC, имеющие отношение к теме
 
 * [RFC4880: OpenPGP Message Format](http://tools.ietf.org/html/rfc4880)
 * [RFC3156: MIME Security with OpenPGP](http://tools.ietf.org/html/rfc3156)
 
-5.6 Фотографии со встреч
+##5.6 Фотографии со встреч
 
     Gainesville, Florida, USA [1]
     San Francisco, California, USA [1]
@@ -745,7 +745,7 @@ any later version published by the Free Software Foundation.
 
 This document lives at http://www.cryptnet.net/fdp/crypto/gpg-party.html
 
-6.1 Версии
+## 6.1 Версии
 
 Version 1.0.0, 2000.10.01 Initial Release.
 
