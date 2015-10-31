@@ -712,12 +712,6 @@ GnuPG установить защиту сегментов памяти, где 
 * [RFC4880: OpenPGP Message Format](http://tools.ietf.org/html/rfc4880)
 * [RFC3156: MIME Security with OpenPGP](http://tools.ietf.org/html/rfc3156)
 
-##5.6 Фотографии со встреч
-
-    Gainesville, Florida, USA [1]
-    San Francisco, California, USA [1]
-    Isreal [1][2]
-
 # 6. Об этом документе
 
 Copyright (c) 2000 - 2003 V. Alex Brennen.
