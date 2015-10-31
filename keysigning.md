@@ -4,10 +4,8 @@
 ключей PGP с использованием GnuPG. Он так же объясняет процесс подписи
 ключей, даёт ответы на часто задаваемые вопросы и поясняет, как создать
 собственную пару ключей и как подписывать ключи других
-людей. Этот документ появился, как перевод [The Keysigning Party
-HOWTO](http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html) V. Alex Brennen
-([vab@cryptnet.net](mailto:vab@cryptnet.net)), но со временем несколько
-видоизменился.
+людей. Этот документ появился, как перевод "The Keysigning Party
+HOWTO", но со временем несколько видоизменился.
 
 # 1. Описание встречи
 
@@ -714,11 +712,9 @@ GnuPG установить защиту сегментов памяти, где 
 
 # 6. Об этом документе
 
-Copyright (c) 2000 - 2003 V. Alex Brennen.
+Оригинал документа на английском
+[написанный V. Alex Brennen](http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html).
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.1 or
 any later version published by the Free Software Foundation.
-
-This document lives at http://www.cryptnet.net/fdp/crypto/gpg-party.html
-
