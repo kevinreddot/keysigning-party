@@ -692,39 +692,22 @@ GnuPG установить защиту сегментов памяти, где 
 * [subkeys.pgp.net](http://subkeys.pgp.net/)
 * [pgp.mit.edu](http://pgp.mit.edu/)
 
-##5.2 Ссылки на документы по теме
+## 5.2 Сайты и документы по теме
 
-* The Zimmermann-Sassaman Keysigning Party Protocol Definition
-* GnuPG FAQ
-* GnuPG Handbook
-* GnuPG Mini Howto (English)
-* comp.security.pgp FAQ
-* Strong Distribution HOWTO
-* Guerrilla Software Development HOWTO
-* PGP Compromise HOWTO
-* Cryptography Dictionary
+* [Biglumber](http://www.biglumber.com/) - координация тех кто хочет подписать ключи
+* Домашняя страница [OpenPGP альянса](http://www.openpgp.org/)
+* [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
+* [GnuPG FAQ](https://gnupg.org/faq/gnupg-faq.html)
+* [GnuPG Mini Howto](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html)
 
-##5.3 Сопутствующие программы
+## 5.3 Сопутствующие программы
 
 * [Gnu Privacy Guard (GnuPG)](https://gnupg.org/)
-* [Wotsap](https://www.lysator.liu.se/~jc/wotsap/) Web of trust statistics and pathfinder
+* [Wotsap](https://www.lysator.liu.se/~jc/wotsap/) - Web of trust statistics and pathfinder
 * [PGP pathfinder & key statistics](http://pgp.cs.uu.nl/)
 * [Graphviz](http://www.graphviz.org/) - Graph Visualization Software
 
-##5.4 Web-страницы на сопутствующие темы
-
-* [Biglumber - Key Signing Coordination](http://biglumber.com/)
-* Keysigning Party Mailing List
-* Keysigning Party Mailing List Archive
-* [OpenPGP Alliance Home Page](http://www.openpgp.org/)
-* Jason Harris PGP Keysigning Page
-* KeyAnalyze Page
-* International PGP Home Page
-* The Debian keyring graphing page
-* Signature Path Tracing page
-* CryptNET
-
-##5.5 RFC, имеющие отношение к теме
+## 5.4 RFC, имеющие отношение к теме
 
 * [RFC4880: OpenPGP Message Format](http://tools.ietf.org/html/rfc4880)
 * [RFC3156: MIME Security with OpenPGP](http://tools.ietf.org/html/rfc3156)
